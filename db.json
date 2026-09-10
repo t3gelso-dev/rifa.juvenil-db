@@ -1,0 +1,18 @@
+{
+  "config": {
+    "title": "Rifa Kids",
+    "prize": "R$ 500,00 em prêmios",
+    "description": "Participe da rifa e concorra a prêmios incríveis! Compre seu número e boa sorte. 🍀",
+    "price": 5,
+    "total_numbers": 100,
+    "draw_date": "",
+    "announce": "Sorteio beneficente",
+    "whatsapp": "5511999999999",
+    "whatsappDisplay": "(11) 99999-9999",
+    "email": "contato@rifakids.com",
+    "pixKey": "",
+    "adminPass": "kids123"
+  },
+  "payments": [],
+  "tokens": {}
+}
