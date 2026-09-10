@@ -14,5 +14,7 @@
     "adminPass": "kids123"
   },
   "payments": [],
-  "tokens": {}
+  "tokens": {
+    "d9e0570992d25dacd23ad78927c800b4c6913bfc4951556d": 1789108221789
+  }
 }
